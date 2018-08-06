@@ -17,6 +17,7 @@
     "@storybook/addon-actions": "3.4.6",
     "@storybook/addon-info": "3.4.6",
     "@storybook/addon-knobs": "3.4.6",
+    "@storybook/addon-storyshots": "3.4.8",
     "@storybook/addons": "3.4.6",
     "@storybook/react": "3.4.6",
     "@types/jest": "22.2.3",
@@ -47,6 +48,7 @@
     "moment": "2.22.1",
     "rc-progress": "2.2.5",
     "react-datepicker": "1.5.0",
+    "react-timeout": "1.1.1",
     "recompose": "0.27.1"
   }
 }
